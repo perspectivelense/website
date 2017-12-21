@@ -1,10 +1,11 @@
 ## Welcome to 365 Property Care
 
 Website Under Construction
+Please contact Andre at: 647 720-7752
 
 ![Under Construction](http://bournespeed.co.uk/shb/images/under_construction_animated.gif) 
 
-Please contact Andre at: 647 720-7752
+
 
 <!--
 You can use the [editor on GitHub](https://github.com/365propertycare/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
